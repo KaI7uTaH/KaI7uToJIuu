@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/ColorDialogs">
+        <file>ColorDialogs.qml</file>
+    </qresource>
+</RCC>
